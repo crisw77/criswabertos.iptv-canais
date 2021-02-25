@@ -1,0 +1,69 @@
+#EXTM3U
+
+
+#EXTINF:-1,GLOBO SP skjdhas
+http://95.141.35.86:8081/look/sptvl/playlist.m3u8
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/BKNkpX0.png",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/BKNkpX0.png",Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ewpFvTh.png",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w856431346.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ewpFvTh.png",Rede Brasil SP
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?IMDSFULL
+
+#EXTINF:-1,SBT HD SP
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ce1IYro.png",TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ce1IYro.png",TV CULTURA PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?IMDSFULL
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ce1IYro.png",TV CULTURA PR HD
+http://200.189.113.201/hls/tve.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/gxu11jW.png",TV Gazeta MA (2)
+http://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/QAyakkR.png",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS (2)" tvg-logo="https://i.imgur.com/QAyakkR.png",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?IMDSFULL
+
+
+#EXTINF:0 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="CANAIS NOTÍCIAS", BAND NEWS
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="CANAIS NOTÍCIAS", BAND NEWS (1)
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pleK0Jo.png" group-title="CANAIS NOTÍCIAS", CNN
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sxCqgDa.jpg" group-title="CANAIS NOTÍCIAS", CNN BRASIL ¹
+https://bit.ly/3cPew8b?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sxCqgDa.jpg" group-title="CANAIS NOTÍCIAS", CNN BRASIL ²
+https://bit.ly/2ZmRWjd?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/6TOylE1.png" group-title="CANAIS NOTÍCIAS", RECORD NEWS
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?IMDSFULL
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/v4IFpRT.png" group-title="CANAIS NOTÍCIAS",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?IMDSFULL
+
+
+
+
